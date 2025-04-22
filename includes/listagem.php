@@ -25,7 +25,9 @@ foreach($vagas as $vaga)
     <td>". date('d/m/Y à\s H:i:s', strtotime($vaga -> DATA)) ."</td>
     <td>
         <a href='editar.php?id=".$vaga->ID."'><button type='button' class='btn btn-primary'>Editar</button></a>
-        <a href='excluir.php?id=".$vaga->ID."'><button type='button' class='btn btn-danger'>Excluir</button></a>
+</td>
+<td>
+        <a href='excluir.php?id=".$vaga->ID."'><button type='button' class='btn btn-danger'>Deletar</button></a>
     </td>
     </tr>";
 }
@@ -45,12 +47,12 @@ foreach($vagas as $vaga)
 	<table class="table bg-light mt-3">
 	    <thead>
 		<tr>
-		    <th>ID</th>
-		    <th>Título</th>
-		    <th>Descrição</th>
-		    <th>Status</th>
-		    <th>Data</th>
-		    <th>Ações</th>
+		    <th class="text-center">ID</th>
+		    <th class="text-center">Título</th>
+		    <th class="text-center">Descrição</th>
+		    <th class="text-center">Status</th>
+		    <th class="text-center">Data</th>
+		    <th colspan="2" class="text-center">Ações</th>
 		</tr>
 	    </thead>
 	    <tbody>
