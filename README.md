@@ -47,7 +47,7 @@ Este projeto é uma base importante para aprofundar meus estudos no padrão **MV
 
 ## 📚 Curso
 
-Projeto baseado nas aulas do canal [WDEV no YouTube](https://www.youtube.com/@WDEV).
+Projeto baseado nas aulas do canal [WDEV no YouTube](https://www.youtube.com/@wdevoficial).
 
 ## 🧑‍💻 Autor
 
