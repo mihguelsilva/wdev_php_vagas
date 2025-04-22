@@ -51,5 +51,5 @@ Projeto baseado nas aulas do canal [WDEV no YouTube](https://www.youtube.com/@WD
 
 ## 🧑‍💻 Autor
 
-Miguel da Silva Santos Tavares de Araujo  
+Mihguel da Silva Santos Tavares de Araujo  
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/mihguel-da-silva-santos-tavares-de-araujo/)
